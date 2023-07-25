@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List User</string>
+    <string name="search_hint">Pencarian...</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tab_followrs">Tab Follower</string>
+    <string name="content_tab_following">Tab Following</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+</resources>
